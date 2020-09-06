@@ -1,0 +1,24 @@
+PODS:
+  - GoogleMaps (3.8.0):
+    - GoogleMaps/Maps (= 3.8.0)
+  - GoogleMaps/Base (3.8.0)
+  - GoogleMaps/Maps (3.8.0):
+    - GoogleMaps/Base
+  - SwiftLocation (4.2.0)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - SwiftLocation
+
+SPEC REPOS:
+  trunk:
+    - GoogleMaps
+    - SwiftLocation
+
+SPEC CHECKSUMS:
+  GoogleMaps: 7c8d66d70e4e8c300f43a7219d8fdaad7b325a9a
+  SwiftLocation: 609ac8859f2c5d48a6cadd2a58c63b1dae02dc25
+
+PODFILE CHECKSUM: 37265c4946a4088bddbae5214d7f39338be21e33
+
+COCOAPODS: 1.8.4
